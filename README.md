@@ -15,10 +15,11 @@
 * Apoi am creat clasa Main in care am adaugat librariile necesare si efectuat testuarea frunctionalitatii de logare
 ![test1](https://user-images.githubusercontent.com/43058513/53407972-0d3e3800-39c6-11e9-9ad1-0bf83c5277bd.PNG)
 * In rezultat s-a deschis browser-ul Chrome apoi s-a deschis link-ul aplicatiei introducanduse username si password
-![test4](https://user-images.githubusercontent.com/43058513/53407976-0fa09200-39c6-11e9-89cf-bd3c9f2e1bf8.PNG)
-* Apoi s-a efectuat navigarea catre pagina dorita (cursul Testare Software)
 ![test3](https://user-images.githubusercontent.com/43058513/53407977-10392880-39c6-11e9-8a26-4da1bf95d824.PNG)
+* Apoi s-a efectuat navigarea catre pagina dorita (cursul Testare Software)
+![test4](https://user-images.githubusercontent.com/43058513/53407976-0fa09200-39c6-11e9-89cf-bd3c9f2e1bf8.PNG)
 
-
-
+### Concluzii
+Efectuand aceasta lucrare de laborator m-am familiarizat cu Selenium si am inteles principiile de testare pentru o aplicatie web.
+Am aplicat in practica cunostintele in limbajul de programare Java.
   
